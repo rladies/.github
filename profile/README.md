@@ -1,6 +1,6 @@
-# R-Ladies Global
+# RLadies+ Global
 
-R-Ladies is a world-wide organization to promote gender diversity in the R community.
+RLadies+ is a world-wide organization to promote gender diversity in the R community.
 
 We achieve this through meetups, mentorship,
 and community-driven projects that support
@@ -17,4 +17,4 @@ development of R.
 ## Get Involved
 
 Find a chapter near you at [rladies.org/activities/chapters/](https://rladies.org/activities/chapters/)
-or start a new one following the [R-Ladies Organizer Guide](https://guide.rladies.org/).
+or start a new one following the [RLadies+ Organizer Guide](https://guide.rladies.org/).
